@@ -29,10 +29,24 @@ The attribution framework satisfies:
 
 ```text
 PFAS-mixture-PBTK-Shapley/
-├── R/
-│   └── PBTK_Shapley.R
+├── PBTK_Shapley.R
 ├── README.md
 ├── requirements-R.txt
 ├── CITATION.cff
 ├── LICENSE
 └── .gitignore
+```
+
+## Run
+
+From the repository root, run the script in R:
+
+```r
+source("PBTK_Shapley.R")
+```
+
+Or from a shell with R installed:
+
+```bash
+Rscript PBTK_Shapley.R
+```
