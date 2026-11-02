@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as follows."
+title: PFAS-mixture-PBTK-Shapley
+type: software
+version: 1.0.0
+authors:
+  - family-names: Lu
+    given-names: Yi
+  - family-names: Xie
+    given-names: Huaijun
+  - family-names: He
+    given-names: Xin
+  - family-names: Zhao
+    given-names: Huimin
+repository-code: "https://github.com/luyi-95/PFAS-mixture-PBTK-Shapley"
+license: MIT
+keywords:
+  - PFAS
+  - PBTK
+  - toxicokinetics
+  - mixture exposure
+  - zebrafish
+  - Shapley value
+  - Owen value
+  - process attribution
